@@ -1,0 +1,9 @@
+tqdm
+numpy
+pandas
+scikit-learn
+sklearn
+scipy
+keras
+tensorflow
+geopy
